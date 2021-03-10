@@ -326,3 +326,7 @@ public static void main(String argv[]){
 }
 
 //q42 ->  for (int i=0; i< ia.length(); i++) 
+
+//q43 -> Error at compile time
+
+
