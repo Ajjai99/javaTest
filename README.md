@@ -329,4 +329,12 @@ public static void main(String argv[]){
 
 //q43 -> Error at compile time
 
+// q44 -> 10
 
+//q45 ->  Error at compile time 
+
+//q49->Compile time error referring to a cast problem 
+
+//q51 -> A compile time error complaining of the scope of the variable i 
+
+//q58 -> Compile Error: Unable to access protected method in base class 
