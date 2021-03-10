@@ -6,7 +6,7 @@ package day2;
 //{
 	// q1 - int  i =10;
 	
-	// q2 - 
+	// q2 - error array must include parameter 
 	
 	/*q3 - package mypackage;
 	        import java.awt.*;
